@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 12px;
+    list-style: none;
+    font-family: PingFang SC;
+}
+body{
+    max-width: 750px;
+    position: relative;
+    background:url("../imgs/bg.jpg")  no-repeat center center;   
+    background-size: 100% 100%;     
+}
+.f{
+    display: flex;
+}
+.f-a{
+    display: flex;
+    align-items: center;
+}
+.f-a-j{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.f-j-s{
+    display: flex;
+    justify-content: space-between;
+}
+.f-j-a{
+    display: flex;
+    justify-content:space-around;}
+
+.g{
+    display: grid;
+}
+.tab-text-active{
+    color: #FAED10 !important;
+}
