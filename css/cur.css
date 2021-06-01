@@ -26,6 +26,9 @@ body{
     grid-template-columns: 3fr 1fr 1fr 1fr 1.5fr 1fr;
     gap: 0 1%;
 }
+.cur-head-text {
+    margin-top: 5px;
+}
 .cur-item{
     text-align: left;
     position: relative;
