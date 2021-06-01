@@ -42,6 +42,9 @@ body{
     flex: 1;
     border-left: 1px solid #715A5A;
 }
+.head-text >li:first-child{
+    border: none;
+}
 .show-box{
     width: 100%;
     grid-template-columns: repeat(4,21%);
