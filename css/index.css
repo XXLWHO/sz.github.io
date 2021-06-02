@@ -31,7 +31,7 @@ letter-spacing: 1px;
 }
 .main{
     padding: 2%;
-    margin-bottom: 130px;
+    margin-bottom: 176px;
 }
 .head-img{
     height: 46px;
@@ -62,10 +62,10 @@ letter-spacing: 1px;
     font-size: 12px;
 }
 .info-box{
-    margin-top: 38px;
+    margin-top: 41px;
     width: 100%;
     grid-template-columns: repeat(3,30%);
-    gap: 3% 4%;
+    gap: 3% 5%;
 }
 .info-item>img{
     width: 63%;
