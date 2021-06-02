@@ -208,6 +208,7 @@ background: #4F2968;
 border-radius: 10px;
 color: #fff;
 margin-top: 10px;
+outline: none;
 }
 .end-text{
 font-size: 14px;
