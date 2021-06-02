@@ -32,6 +32,8 @@ var getList = function(){
         `
     }
     document.querySelector(".show-choose").innerHTML =  str_2;
+    console.log(document.querySelector(".show-choose").children[0]);
+    document.querySelector(".show-choose").children[0].classList="add_border"
 
 }
 var click = function(){

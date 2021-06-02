@@ -189,7 +189,7 @@ box-shadow: 3px 3px 6px 0px rgba(0, 0, 0, 0.2);
     padding: 2% 3% 8%;
     width: 80%;
     grid-template-columns: repeat(4,1fr);
-    gap: 4%;
+    gap: 3%;
 background: #111111;
 border: 5px solid #FFFFFF;
 border-radius: 10px;
@@ -197,5 +197,9 @@ margin: 0 auto;
 z-index: 10;
 }
 .choose-img{
-    width: 100%;
+    width: 94%;
+}
+.add_border{
+    border: 2px solid #F3D855;
+    border-radius: 10px;
 }
