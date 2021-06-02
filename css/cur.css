@@ -41,10 +41,12 @@ body{
     font-size: 10px;
     color: #FFFFFF;
     white-space: nowrap;
+    
 }
 .cur-item img {
     width: 100%;
     height: 28px;
+
     display: inline-block;
 }
 .cur-head-text>ul{

@@ -34,12 +34,13 @@ letter-spacing: 1px;
     margin-bottom: 130px;
 }
 .head-img{
-    height: 50px;
+    height: 46px;
     border:1px solid #fff;
     border-radius: 5px;
 }
 .head-img>img{
-    height: 100%;
+    width: 48px;
+    height: 44px;
 }
 .head-info{
     padding-left: 5%;
@@ -50,7 +51,7 @@ letter-spacing: 1px;
     color: #F3E32B;
 }
 .head-info>ul>li:first-child{
-    font-size: 14px;
+    font-size: 12px;
     color: #FFFFFF;
 }
 .head-info>ul>li:nth-child(2){
@@ -58,7 +59,7 @@ letter-spacing: 1px;
     color: #F3E32B;
 }
 .head-info>ul>li:nth-child(3){
-    font-size: 13px;
+    font-size: 12px;
 }
 .info-box{
     margin-top: 38px;
