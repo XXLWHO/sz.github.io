@@ -4,7 +4,7 @@ body{
 }
 .slider-box{
     position: fixed;
-    left: -1%;
+    left: 0%;
     top: 2%;
     width: 12%;
 }
@@ -14,7 +14,7 @@ body{
 }
 .cur-head{
     position: fixed;
-    left: 12%;
+    left: 13%;
     top: 2%;
     width: 85%;
     height: 70px;

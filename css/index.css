@@ -65,7 +65,7 @@ letter-spacing: 1px;
     margin-top: 41px;
     width: 100%;
     grid-template-columns: repeat(3,30%);
-    gap: 3% 5%;
+    gap: 5%;
 }
 .info-item>img{
     width: 63%;
@@ -73,10 +73,9 @@ border: 1px solid #F3D855;
     border-radius: 10px;
 }
 .info-text{
-    margin-top: 5px;
-font-size: 12px;
-font-weight: 500;
-color: #D7B14F;
+    margin-top: 8px;
+    font-size: 14px;
+    color: #D7B14F;
 }
 .kf-box{
     position: fixed;
