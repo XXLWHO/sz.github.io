@@ -7,9 +7,6 @@
     list-style: none;
     font-family: PingFang SC;
 }
-html,body{
-    height: 100%;
-}
 body{
     max-width: 750px;
     position: relative;
