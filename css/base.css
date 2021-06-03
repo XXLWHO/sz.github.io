@@ -12,7 +12,7 @@ body{
     position: relative;
     background: url(../imgs/bg.jpg) no-repeat center center;
     width: 100%;
-    background-size: 100% 86%;
+    background-size: 100% 100%;
 }
 .f{
     display: flex;
