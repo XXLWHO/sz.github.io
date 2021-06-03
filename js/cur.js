@@ -33,12 +33,11 @@ var getList = function(){
     for(let i = 0;i<13;i++){
         str_2 += `
         <div class="choose-item">
-        <img src="../imgs/icon_jsssc${i+1}.png" alt="" class="choose-img">
+        <img src="../imgs/icon_jsssc${i+1}.png" alt="" class="choose-img add_border">
     </div>
         `
     }
     document.querySelector(".show-choose").innerHTML =  str_2;
-    document.querySelector(".show-choose").children.classList="add_border"
 }
 var click = function(){
     document.querySelector(".choose").addEventListener("click",function(){
