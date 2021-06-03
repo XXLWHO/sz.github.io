@@ -15,7 +15,7 @@ var handles =[
     if(document.querySelector('body').style.background != 'rgb(51, 51, 51)'){
 	document.querySelector('body').style.background='#333'}
     else if(document.querySelector('body').style.background == 'rgb(51, 51, 51)'){
-	document.querySelector('body').style.background='url(../imgs/bg03b.png) no-repeat center center'	
+	document.querySelector('body').style.background='url(../imgs/bg03b.png) no-repeat center center fixed'	
     }
     `
 ]
