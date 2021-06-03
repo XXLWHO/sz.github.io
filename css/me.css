@@ -3,6 +3,7 @@ body{
 }
 .head-box{
     width: 100%;
+    height: unset;
     /* height: 200px; */
     background: url("../imgs/jx.png") no-repeat center center;
     background-size: 100% 100%;
