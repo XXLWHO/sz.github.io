@@ -51,6 +51,6 @@ var click = function(){
         document.querySelector(".show").style.display = "none"
     })
     document.querySelector(".show-choose").addEventListener("click",function(){
-        document.querySelector(".show").style.display = "none"
+        document.querySelector(".show").style.display = "none" 
     })
 }
