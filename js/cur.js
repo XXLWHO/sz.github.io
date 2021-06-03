@@ -11,7 +11,13 @@ var handles =[
     "window.location.href='index.html';sessionStorage.setItem('from','kf')",
     "window.location.reload()",
     "window.location.href='me.html'",
-    "document.querySelector('body').style.background='#333'"
+    `
+    if(document.querySelector("body").style.background != "#333"){
+      document.querySelector('body').style.background='#333'
+}else{
+ document.querySelector('body').style.background="url(../imgs/bg03b.png) no-repeat center center"
+    
+   `
 ]
 var getList = function(){
     let str =``;
