@@ -33,7 +33,7 @@ letter-spacing: 1px;
     padding: 2%;
 }
 .head-box{
-    position: absolute;
+    position: fixed;
     left: 0;
     top: 0%;
     width: 100%;
