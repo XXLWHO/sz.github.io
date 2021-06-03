@@ -1,8 +1,8 @@
 body{
     background: url("../imgs/bg03b.png") 
     no-repeat center center ;
-        background-attachment: fixed;
-    height:100%;
+    background-attachment: fixed;
+    height:100vh;
 }
 .slider-box{
     position: fixed;
